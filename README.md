@@ -1,16 +1,56 @@
-## Hi there 👋
+# *Hi,* Me llamo Julio Cesar Murrieta 👋🏻
 
-<!--
-**juliocmg830-ai/juliocmg830-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Estudiante de Ingeniería de Software 
+> Aprendiendo • Creando • Mejorando • Investigando • Probando
 
-Here are some ideas to get you started:
+### ✦ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante enfocado en el desarrollo de software. Me gusta convertir ideas en proyectos funcionales, resolver problemas lógicos y sigo aprendiendo con cada nuevo desafío me apasiona aprender sobre el desarrollo de software, bases de datos y desarrollo web y aplicaciones moviles
+
+Me gusta convertir ideas en proyectos funcionales y seguir aprendiendo con cada proyecto que realizo.
+
+### Tech & Tools
+
+`Java` • `JavaFX` • `Kotlin` • `Python` • `Agentforce` • `Git` • `GitHub``JavaScript` • `Html` • `CSS`
+
+✦ Featured projects
+
+Desarrollador de agentes de IA
+
+Hackathon realizado en Agentforse
+
+Creación de paginas web
+
+Desarrollo y diseño de diversos sitios web.
+
+Creacion de videoJuegos
+
+Mario Bros, Minecraft, juegos de disparos y juegos de carreras
+
+Deposito Madeline
+
+Sistema de gestión para inventario, ventas, reportes y escanear productos de barra
+
+METALWORKS-MASTERS
+
+Sitio web desarrollado con HTML y CSS y javaScript
+
+Java y Python Prácticas 
+
+Ejercicios y proyectos y apuntes realizados durante mi aprendizaje de Java y lenguajes de desarrollo web
+
+Currently learning
+
+Java · MySQL · Desarrollo  web con agentes de IA
+
+                                      ✦ Innovando el presente y conectando el futuro ✦
+
+
+
+
+
+
+
+
+
+
